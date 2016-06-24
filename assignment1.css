@@ -1,0 +1,27 @@
+body {  margin: 0px 0px;}
+.container_12 {
+  /*background-image: url("iceland-road-glacier-explore-travel-001.jpg");*/
+background-image: url("images/sky.jpg");
+}
+
+header{background-image: url("images/back2.jpg");
+height: 70px;
+position: fixed;
+width: 960px;}
+div:hover{background-color: pink;color: orange;}
+header p {margin-top: 0px;text-align: center;font-size: 30px;font-family:cursive; color: black}
+nav{background-color: #66b3ff;/*display: inline;*/font-style: bold;font-size: 18px;
+  font-family: serif;height: 45px;padding-top: 50px;}
+nav li{display: inline;float: right;margin-right: 5px;}
+nav a:hover{ background-color: pink;color: orange;}
+footer{background-color: #cce6ff;height: 50px;clear: both;margin-top:0px;}
+footer h4{margin-bottom: 0px;font-size: 15px}
+ p{font-family: serif;font-size: 14px}
+footer a{float: right;margin-right: 5px;}
+footer a:hover{  background-color: pink;  color: orange;}
+ .img, .img1, .img2{margin-top: 20px;margin-bottom: 20px;height: 300px;}
+
+ /*.img1{background-color:  yellow;}*/
+ /*.img2{background-color:  blue;}*/
+
+.heroimg{ background-color: orange;height: 300px;margin-bottom: 20px;}
